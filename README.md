@@ -1,4 +1,4 @@
-# BOP + ZAWA Spawn Control (Forge 1.20.1)
+# BOP + Biological Wonders Spawn Control (Forge 1.20.1)
 
 This datapack uses Forge biome modifiers to curate ZAWA spawns in Biomes O' Plenty overworld biomes.
 
