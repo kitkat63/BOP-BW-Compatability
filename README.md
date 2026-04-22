@@ -6,9 +6,6 @@ This datapack uses Forge biome modifiers to curate ZAWA spawns in Biomes O' Plen
 
 - Per-biome placement for BOP overworld biomes.
 - Bugs allowed in mystical biomes, but other fauna blocked there.
-- Savannah specialists only in explicit savannah biomes.
-- Monkeys/apes primarily in rainforest and tropics biomes.
-- Snow leopard is very rare and restricted to tundra/mountain-like BOP biomes.
 - Wildlife rarity roughly mirrors real-world rarity (lower weights for rare species).
 
 ## How it works
