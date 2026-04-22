@@ -14,6 +14,7 @@
   },
   "spawners": [
     { "type": "biologicalwonders:alligator_gar", "weight": 3, "minCount": 1, "maxCount": 5 },
-    { "type": "biologicalwonders:cuban_crocodile", "weight": 3, "minCount": 2, "maxCount": 4 }
+    { "type": "biologicalwonders:cuban_crocodile", "weight": 3, "minCount": 2, "maxCount": 4 },
+    { "type": "biologicalwonders:kingfisher", "weight": 3, "minCount": 2, "maxCount": 4 }
   ]
 }
