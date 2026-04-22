@@ -13,7 +13,7 @@ This datapack uses Forge biome modifiers to curate ZAWA spawns in Biomes O' Plen
 
 ## How it works
 
-1. `00_remove_zawa_from_bop_overworld.json` clears all known ZAWA entity spawns from BOP overworld biome IDs.
+1. `00_remove_bw_from_bop_overworld.json` clears all known Biological Wonders entity spawns from BOP overworld biome IDs.
 2. Additional `forge:add_spawns` biome modifiers then add controlled spawn sets by biome group.
 
 ## Notes
