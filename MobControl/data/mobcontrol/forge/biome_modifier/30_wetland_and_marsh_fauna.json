@@ -1,1 +1,19 @@
-
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:or",
+    "values": [
+      "biomesoplenty:bayou",
+      "biomesoplenty:bog",
+      "biomesoplenty:marsh",
+      "biomesoplenty:wetland",
+      "biomesoplenty:muskeg",
+      "biomesoplenty:moor",
+      "biomesoplenty:hot_springs"
+    ]
+  },
+  "spawners": [
+    { "type": "biologicalwonders:alligator_gar", "weight": 3, "minCount": 1, "maxCount": 5 },
+    { "type": "biologicalwonders:cuban_crocodile", "weight": 3, "minCount": 2, "maxCount": 4 }
+  ]
+}
