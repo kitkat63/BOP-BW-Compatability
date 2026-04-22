@@ -1,7 +1,0 @@
-{
-  "type": "forge:remove_spawns",
-  "biomes": "minecraft:frozen_river",
-  "entity_types": [
-    "zawa:indian_gharial"
-  ]
-}
