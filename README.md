@@ -18,13 +18,5 @@ This datapack uses Forge biome modifiers to curate ZAWA spawns in Biomes O' Plen
 
 ## Notes
 
-- Lemurs are restricted to rainforest variants only; giant pandas are focused on bamboo jungle and redwood forest.
-- Aquatic profiles are tuned for fish-heavy waters with orcas intentionally rarer than fish (including frozen ocean support).
-- Koalas are explicitly removed from stony shore and gharials from frozen river.
-- "Mystical Biomes" have a higher bug populace than the rest of the biomes.
-- Asian Elephants are limited to 1 biome only.
-- Macaws only spawn in rainforests.
-- Biomes not included in add-spawn modifiers intentionally receive no ZAWA spawns (example: end biomes and nether biomes).
-- Adds brown rats in village-associated biomes (closest datapack-only approximation for structure spawns).
-- If another datapack/modifier adds spawns later in pack order, it can override these results.
-- Use `/reload` after installing and prefer this datapack near the end of load order.
+- Aquatic Animals Should Spawn In Appropriate Biomes
+- No Competition Between Gharial and Cuban Crocodile
