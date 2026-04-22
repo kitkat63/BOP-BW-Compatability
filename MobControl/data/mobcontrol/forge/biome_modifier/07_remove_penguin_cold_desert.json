@@ -1,7 +1,0 @@
-{
-  "type": "forge:remove_spawns",
-  "biomes": "biomesoplenty:cold_desert",
-  "entity_types": [
-    "zawa:emperor_penguin"
-  ]
-}
