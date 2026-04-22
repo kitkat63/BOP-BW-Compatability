@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:and",
+    "values": [
+      "#minecraft:is_ocean",
+      "#forge:is_cold"
+    ]
+  },
+  "spawners": [
+    { "type": "zawa:orca", "weight": 2, "minCount": 1, "maxCount": 1 }
+  ]
+}

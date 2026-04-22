@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_ocean",
+  "spawners": [
+    { "type": "zawa:cod", "weight": 20, "minCount": 6, "maxCount": 9 },
+    { "type": "zawa:salmon", "weight": 18, "minCount": 6, "maxCount": 9 },
+    { "type": "zawa:angelfish", "weight": 16, "minCount": 5, "maxCount": 8 },
+    { "type": "zawa:clownfish", "weight": 16, "minCount": 5, "maxCount": 8 },
+    { "type": "zawa:gramma", "weight": 14, "minCount": 4, "maxCount": 7 },
+    { "type": "zawa:orca", "weight": 1, "minCount": 1, "maxCount": 2 }
+  ]
+}

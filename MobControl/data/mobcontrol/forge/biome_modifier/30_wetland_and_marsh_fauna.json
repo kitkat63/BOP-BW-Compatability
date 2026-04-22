@@ -1,0 +1,23 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:or",
+    "values": [
+      "biomesoplenty:bayou",
+      "biomesoplenty:bog",
+      "biomesoplenty:marsh",
+      "biomesoplenty:wetland",
+      "biomesoplenty:muskeg",
+      "biomesoplenty:moor",
+      "biomesoplenty:hot_springs"
+    ]
+  },
+  "spawners": [
+    { "type": "zawa:indian_gharial", "weight": 2, "minCount": 1, "maxCount": 5 },
+    { "type": "zawa:flamingo", "weight": 5, "minCount": 2, "maxCount": 4 },
+    { "type": "zawa:tree_frog", "weight": 6, "minCount": 2, "maxCount": 3 },
+    { "type": "zawa:corydoras", "weight": 6, "minCount": 3, "maxCount": 5 },
+    { "type": "zawa:plecostomus", "weight": 4, "minCount": 1, "maxCount": 2 },
+    { "type": "zawa:betta", "weight": 2, "minCount": 1, "maxCount": 2 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:or",
+    "values": [
+      "biomesoplenty:dead_forest",
+      "biomesoplenty:old_growth_dead_forest",
+      "biomesoplenty:grassland"
+    ]
+  },
+  "spawners": [
+    { "type": "zawa:brown_rat", "weight": 4, "minCount": 1, "maxCount": 2 },
+    { "type": "zawa:black_footed_ferret", "weight": 2, "minCount": 1, "maxCount": 1 },
+    { "type": "zawa:praying_mantis", "weight": 3, "minCount": 1, "maxCount": 1 }
+  ]
+}

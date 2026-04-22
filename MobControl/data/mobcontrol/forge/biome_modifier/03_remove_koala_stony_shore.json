@@ -1,0 +1,7 @@
+{
+  "type": "forge:remove_spawns",
+  "biomes": "minecraft:stony_shore",
+  "entity_types": [
+    "zawa:koala"
+  ]
+}

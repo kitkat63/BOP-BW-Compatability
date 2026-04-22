@@ -1,0 +1,18 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "biomesoplenty:dryland",
+  "spawners": [
+    {
+      "type": "zawa:african_wild_dog",
+      "weight": 4,
+      "minCount": 2,
+      "maxCount": 3
+    },
+    {
+      "type": "zawa:red_kangaroo",
+      "weight": 6,
+      "minCount": 2,
+      "maxCount": 4
+    }
+  ]
+}

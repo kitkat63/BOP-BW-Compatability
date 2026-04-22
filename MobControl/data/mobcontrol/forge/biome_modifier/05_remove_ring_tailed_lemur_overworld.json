@@ -1,0 +1,7 @@
+{
+  "type": "forge:remove_spawns",
+  "biomes": "#is_overworld",
+  "entity_types": [
+    "zawa:ring_tailed_lemur"
+  ]
+}
