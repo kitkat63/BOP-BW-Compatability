@@ -64,18 +64,21 @@
     ]
   },
   "entity_types": [
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders",
-    "biologicalwonders"
+    "biologicalwonders:alligator_gar",
+    "biologicalwonders:blacktip_reef_shark",
+    "biologicalwonders:cownose_ray",
+    "biologicalwonders:cuban_crocodile",
+    "biologicalwonders:elephant_seal",
+    "biologicalwonders:grey_seal",
+    "biologicalwonders:harbor_seal",
+    "biologicalwonders:horseshoe_crab",
+    "biologicalwonders:kingfisher",
+    "biologicalwonders:lionfish",
+    "biologicalwonders:napoleon_wrasse",
+    "biologicalwonders:nurse_shark",
+    "biologicalwonders:pacific_white_sided_dolphin",
+    "biologicalwonders:ribbon_seal",
+    "biologicalwonders:sea_bunny",
+    "biologicalwonders:tulip_snail"
   ]
 }
