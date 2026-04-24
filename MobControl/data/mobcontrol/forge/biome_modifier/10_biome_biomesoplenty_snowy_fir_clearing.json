@@ -1,0 +1,18 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "biomesoplenty:snowy_fir_clearing",
+  "spawners": [
+    {
+      "type": "biologicalwonders:grey_seal",
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "biologicalwonders:harbor_seal",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ]
+}
