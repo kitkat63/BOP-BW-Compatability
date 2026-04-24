@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "biomesoplenty:muskeg",
+  "spawners": [
+    {
+      "type": "biologicalwonders:harbor_seal",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "biomesoplenty:bayou",
+  "spawners": [
+    {
+      "type": "biologicalwonders:alligator_gar",
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "biologicalwonders:cuban_crocodile",
+      "weight": 2,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "biologicalwonders:kingfisher",
+      "weight": 8,
+      "minCount": 2,
+      "maxCount": 4
+    }
+  ]
+}

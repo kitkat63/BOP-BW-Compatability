@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "biomesoplenty:mediterranean_forest",
+  "spawners": [
+    {
+      "type": "biologicalwonders:kingfisher",
+      "weight": 8,
+      "minCount": 2,
+      "maxCount": 4
+    }
+  ]
+}
